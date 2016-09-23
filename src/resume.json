@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Priya Rammohan",
+    "label": "Full Stack Developer",
+    "picture": "logo.svg",
+    "email": "jonbloomer@gmail.com",
+    "phone": "0403933281",
+    "website": "",
+    "summary": "I'm Priya Rammohan with about 14 years of experience as a full stack web developer.I have continuously challenged myself with new languages, frameworks and methodologies.In my last role at Waste Management,I have successfully helped migrate an enterprise GIS application, from a Flex based architecture using to HTML5/Javascript using DOJO .Recently, inspired by functional programming,I have been experimenting with React & Redux libraries.I have also had experience writing unit tests using Tape. Node js & Gulp for front-end tooling.",
+    "location": {
+      "address": "Sugar Land",
+      "postalCode": "77479",
+      "city": "Houston,TX",
+      "countryCode": "Aus"
+      
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "lingpri",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "WM",
+      "position": "UI Developer",
+      "website": "",
+      "startDate": "2014-11-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        
+      ]
+    }
+    
+    
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kongu Engineering College",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor (hons)",
+      "startDate": "1995",
+      "endDate": "1999",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES2015",
+        "jQuery",
+        "Angular JS",
+        "Meteor",
+        "React",
+        "Handlebars",
+        "SASS",
+        "LESS",
+        "Gulp",
+        "Grunt",
+        "Babel",
+        "Bootstrap",
+        "Node",
+        "Git",
+        "Jira",
+        "Hadoop"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Swimming",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
